@@ -1,2 +1,2 @@
 # BTM
-Brawlstart Tounier Manager for the best Brawler
+Brawlstart Tournament Manager for the best Brawler
